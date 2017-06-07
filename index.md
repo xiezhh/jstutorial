@@ -17,7 +17,7 @@ modifiedOn: 2014-05-18
 - [数值](grammar/number.html)
 - [字符串](grammar/string.html)
 - [对象](grammar/object.html)
-- [数组](grammar/array.html)
+- [数组](grammar/array.md)
 - [函数](grammar/function.html)
 - [运算符](grammar/operator.html)
 - [数据类型转换](grammar/conversion.html)
